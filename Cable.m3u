@@ -965,7 +965,7 @@ https://streamconex.com:1936/n24tv/n24tv/playlist.m3u8?TecnoPlaylist
 #EXTINF:-1 group-title="ARGENTINA" tvg-id="1006" tvg-name="Neo TV" tvg-logo="https://i2.paste.pics/085efda10687fd80ddb05de1600f41e0.png", Neo TV *
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?TecnoPlaylist
 #EXTINF:-1 group-title="ARGENTINA" tvg-id="218" tvg-name="Señal Urbana" tvg-logo="https://i2.paste.pics/98c300d4c9b1e3f00f1968bf4dab9f1f.png", Señal Urbana *
-https://videosenlared.fullstreaming.ar:3560/live/senialurbanalive.m3u8?TecnoPlaylist
+https://vtm2.msinteractiva.com/urbanamas/urbanamas/playlist.m3u8?TecnoPlaylist
 #EXTINF:-1 group-title="ARGENTINA" tvg-id="1026" tvg-name="Tele Mix" tvg-logo="https://i2.paste.pics/f5ffafe8c5fcd218d5f15e4849c91891.png", Tele Mix *
 https://panel.dattalive.com:443/8068/8068/playlist.m3u8?TecnoPlaylist
 #EXTINF:-1 group-title="ARGENTINA" tvg-id="1010" tvg-name="UNaM Transmedia" tvg-logo="https://i2.paste.pics/8c4977628c2855095b6b9bff9a9f2a1d.png", UNaM Transmedia *
